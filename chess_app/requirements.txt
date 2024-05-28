@@ -1,0 +1,7 @@
+ultralytics
+torch
+chess
+numpy
+opencv-python
+setuptools
+dill
