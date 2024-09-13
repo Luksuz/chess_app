@@ -1,0 +1,37 @@
+2024-09-13 13:05:52,090 [INFO] Successfully opened video file: /Users/lukamindek/Desktop/i/chess_app/images/chess_video.mp4
+2024-09-13 13:05:52,740 [WARNING] No move returned from Stockfish.
+2024-09-13 13:05:54,960 [WARNING] No move returned from Stockfish.
+2024-09-13 13:05:56,816 [WARNING] No move returned from Stockfish.
+2024-09-13 13:05:58,683 [WARNING] No move returned from Stockfish.
+2024-09-13 13:06:00,559 [WARNING] No move returned from Stockfish.
+2024-09-13 13:06:02,746 [WARNING] No move returned from Stockfish.
+2024-09-13 13:06:03,317 [INFO] Exit key pressed. Exiting loop.
+2024-09-13 13:06:03,335 [INFO] Released video capture and destroyed all windows.
+2024-09-13 13:06:20,631 [INFO] Successfully opened video file: /Users/lukamindek/Desktop/i/chess_app/images/chess_video.mp4
+2024-09-13 13:06:30,985 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:06:34,764 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:06:38,205 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:06:41,801 [WARNING] No move returned from Stockfish.
+2024-09-13 13:06:45,288 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:06:48,707 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:06:52,230 [WARNING] No move returned from Stockfish.
+2024-09-13 13:06:55,786 [ERROR] Error sorting corners: too many values to unpack (expected 2)
+2024-09-13 13:06:59,231 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:07:02,785 [WARNING] Less than 4 corners detected. Displaying mask and corners image.
+2024-09-13 13:07:06,262 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:07:09,772 [WARNING] Less than 4 corners detected. Displaying mask and corners image.
+2024-09-13 13:07:13,265 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:07:16,712 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:07:20,259 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:23,807 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:27,378 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:30,817 [ERROR] Error getting mask: 'NoneType' object has no attribute 'data'
+2024-09-13 13:07:34,319 [WARNING] Less than 4 corners detected. Displaying mask and corners image.
+2024-09-13 13:07:37,860 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:41,430 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:44,952 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:48,499 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:52,033 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:55,588 [WARNING] No move returned from Stockfish.
+2024-09-13 13:07:59,592 [WARNING] Failed to read frame from capture. Exiting loop.
+2024-09-13 13:07:59,809 [INFO] Released video capture and destroyed all windows.
